@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"livePreview.hostIP": "192.168.100.8"
+	}
+}
